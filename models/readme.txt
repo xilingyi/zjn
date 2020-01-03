@@ -3,3 +3,5 @@ Every files contains several formats: Zjn_*.m, Zjn_*_CV.m, Zjn_*_review.m. (e.g.
 Zjn_*.m and Zjn_*_review.m use DFT&elemental  and elemantal features, respectively. 
 Zjn_*_CV.m use Leave-One-Cluster-Out (LOCO) CV method to evalute the prediction.
 The more complete script comments exist in ELman code.
+RFR_pre is used to predict new materials.
+two excel are primary data. 
